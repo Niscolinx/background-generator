@@ -1,0 +1,9 @@
+body{
+    align-content: center;
+    background: linear-gradient(to right, yellow,red);
+    text-transform: uppercase;
+}
+.background{
+    align-content: center;
+    margin-left: 33.5%;
+}
